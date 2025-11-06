@@ -55,8 +55,8 @@ ConversorDeMonedasJava/
 
 1. **Clonar el repositorio**
 2. 
-git clone https://github.com/alexitico1989/Conversor-monedas-Java-Alura.git
-cd Conversor-monedas-Java-Alura
+git clone (https://github.com/anabelle-alberto/conversor-monedas.git)
+cd conversor-monedas
 
 2.-Abrir el proyecto en IntelliJ IDEA
 
@@ -105,7 +105,3 @@ Incluir registros con timestamp usando java.time.
 Mostrar resultados con el símbolo de la moneda correspondiente.
 
 Implementar interfaz gráfica (GUI) con JavaFX o Swing.
-
-Autor
-
-Alexitico1989 - Proyecto realizado como parte del curso de Java en Alura.
