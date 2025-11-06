@@ -54,11 +54,10 @@ ConversorDeMonedasJava/
 ## Cómo usar el proyecto
 
 1. **Clonar el repositorio**
-2. 
-git clone (https://github.com/anabelle-alberto/conversor-monedas.git)
+2. git clone (https://github.com/anabelle-alberto/conversor-monedas.git)
 cd conversor-monedas
 
-2.-Abrir el proyecto en IntelliJ IDEA
+3.-Abrir el proyecto en IntelliJ IDEA
 
 Seleccionar la carpeta raíz del proyecto.
 
