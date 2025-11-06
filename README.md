@@ -55,8 +55,8 @@ ConversorDeMonedasJava/
 
 1. **Clonar el repositorio**
 2. 
-git clone 
-cd Conversor-monedas-Java
+git clone https://github.com/alexitico1989/Conversor-monedas-Java-Alura.git
+cd Conversor-monedas-Java-Alura
 
 2.-Abrir el proyecto en IntelliJ IDEA
 
